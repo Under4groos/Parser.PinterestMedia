@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser.PinterestMedia", "Parser.PinterestMedia\Parser.PinterestMedia.csproj", "{8D8E3E48-6FEE-4EE5-8A97-E19E662C7E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser.PinterestMediaLib", "Parser.PinterestMediaLib\Parser.PinterestMediaLib.csproj", "{24C2C33F-5616-41F9-B6EB-792BD0AD9DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8E3E48-6FEE-4EE5-8A97-E19E662C7E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8E3E48-6FEE-4EE5-8A97-E19E662C7E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8E3E48-6FEE-4EE5-8A97-E19E662C7E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8E3E48-6FEE-4EE5-8A97-E19E662C7E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C2C33F-5616-41F9-B6EB-792BD0AD9DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C2C33F-5616-41F9-B6EB-792BD0AD9DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C2C33F-5616-41F9-B6EB-792BD0AD9DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C2C33F-5616-41F9-B6EB-792BD0AD9DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A587944-4C63-41D9-8290-5EEFCFFC9F65}
+	EndGlobalSection
+EndGlobal
