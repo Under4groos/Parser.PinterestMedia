@@ -1,8 +1,11 @@
 # Parser.PinterestMedia
 
 ### Парстер сайта pinterest.com
-Получаем ссылки на видео слудующим образом:
 
+Проект писался как еще один модуль к моему сайту -> underko.ru
+
+
+Получаем ссылки на видео слудующим образом:
 ```C#
 using Parser.PinterestMediaLib;
 using Parser.PinterestMediaLib.Structures;
